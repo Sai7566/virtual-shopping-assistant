@@ -1,0 +1,576 @@
+[
+  {
+    "category": "greeting",
+    "keywords": ["hi", "hello", "hey", "buddy", "good morning", "good afternoon", "good evening", "good night", "greetings", "what's up", "yo"],
+    "response": "👋 Hi sir/madam! Welcome to our virtual shopping assistant! How can I assist you today? 😊\n\n🛍️ We offer:\n\n👨 Men | 👩 Women | 🧒 Kids\n- 👕 Topwear\n- 👖 Bottomwear\n- 🧥 Winterwear\n\n📏 Sizes Available: S, M, L, XL, XXL\n💸 Price Ranges: Low (≤ ₹500) & Premium (> ₹500)"
+  }
+  ,
+  
+  {
+    "category": "default",
+    "keywords": [
+      "cart", "add to cart", "add product", "add item", "how to add", "where to add", "cart product", "cart items",
+      "add to basket", "cart mens shirts", "cart women tops", "cart boys wear", "cart girls dress"
+    ],
+    "response": "🛒 Here's how to add products to your cart:\n\n1️⃣ Browse our collections or search for a product.\n2️⃣ Click on a product to view details.\n3️⃣ Select your size and quantity.\n4️⃣ Click the \"Add to Cart\" button.\n\n✅ You'll see the cart icon update with your item.\n\n5️⃣ Click on the Cart Icon 🛍️ to open your cart.\n6️⃣ Adjust the quantity as needed.\n\nWhen you're ready, click \"Place Order\" to complete your purchase."
+  },
+  {
+    "category": "default",
+    "keywords": [
+      "buy now", "checkout", "instant buy", "direct buy", "purchase now", "buy product", "how to checkout","buy",
+      "proceed to checkout", "order fast", "quick purchase", "check out", "pay now","item buy","buy item","buy an","buy products","item buy","buy items","how to buy"
+    ],
+    "response": "⚡ Want it fast? Here's how to use Buy Now:\n\n1️⃣ Browse or search for a product.\n2️⃣ Click the product to view its details.\n3️⃣ Select size and quantity.\n4️⃣ Hit the \"Buy Now\" button.\n\n🧾 You'll be taken straight to the order page.\n\n5️⃣ Review your selection, fill in your details, and proceed with payment.\n\n🚀 Your order will be placed instantly without going to the cart!"
+  },
+  {
+    "category": "default",
+    "gender": "men",
+    "keywords": [
+      "men pants", "men trousers", "men joggers", "premium pants", "high price pants", "expensive pants",
+      "best pants", "top pants", "stylish pants", "trendy pants", "above 500","high","price"
+    ],
+    "response": "👖 Here are some of our top premium men's pants above ₹500:\n\n- Men Jogger Pants – ₹999\n- Men Jogger Pants – ₹1999\n- Men Rugged Denim Trouser – ₹2000\n\n🛒 Shop more stylish men's bottomwear on our store!"
+  },
+  {
+    "category": "default",
+    "gender": "men",
+    "keywords": [
+      "men shirts", "men shirt", "shirt for men", "casual men shirts", "best men shirts", "premium men shirts",
+      "stylish shirts", "high price shirts", "top shirts", "trendy shirts","high","price","above 500"
+    ],
+    "response": "👔 Check out our top premium men's shirts above ₹500:\n\n- Classic Men Casual Shirt – ₹999\n- Men Slim Fit Relaxed Denim Shirt – ₹4999\n- Classic Men Casual Shirt – ₹4999\n\n✨ Explore more classy shirts in our men's collection!"
+  },
+  {
+    "category": "default",
+    "gender": "men",
+    "keywords": [
+      "men tshirt", "men t shirt", "men t-shirt", "t-shirt men", "premium t-shirts", "best men t-shirts",
+      "top t-shirts", "high quality t-shirts", "expensive t-shirts","price","above 500","high"
+    ],
+    "response": "👕 Premium Men's T-Shirts above ₹500:\n\n- Men Premium Cotton Tee – ₹999\n- Classic Men Casual T-Shirt – ₹599\n- Men Round Neck Pure Cotton T-shirt – ₹2999\n\n🛍️ Explore more men's tees now!"
+  },
+  {
+    "category": "default",
+    "gender": "men",
+    "keywords": [
+      "men hoodies", "hoodie for men", "best men hoodies", "premium men hoodies", "trendy hoodies",
+      "men sweatshirts", "warm hoodies","quality","high","price","above 500","high","men"
+    ],
+    "response": "🧥 Premium Men's Hoodies:\n\n- Casual Men Hoodie – ₹1500\n\n🔥 Stay cozy and stylish with our top hoodie picks!"
+  },
+  {
+    "category": "default",
+    "gender": "men",
+    "keywords": [
+      "men sweater", "men sweaters", "winter wear men", "knitwear men", "warm clothes men", "best men sweaters",
+      "premium men sweaters", "stylish sweaters", "top sweaters", "high price sweaters","above 500"
+    ],
+    "response": "🧶 Premium Sweaters for Men:\n\n- Men Winter Sweater – ₹1399\n- Men Lightweight Puffer Jacket – ₹2000\n\n🧣 Stay warm with premium comfort!"
+  },
+  {
+    "category": "premium",
+    "gender": "women",
+    "keywords": [
+      "women pants", "women trousers", "women jeans", "women joggers", "premium pants", "stylish pants",
+      "trendy pants", "high price pants", "best pants", "expensive pants","high","price","above 500","women"
+    ],
+    "response": "👖 Premium Women's Pants:\n\n- Women High-Waist Stretchable Pants – ₹1599\n- Girls Classic Denim Trouser – ₹999\n\n🛍️ Explore more stylish pants in our women's section!"
+  },
+  {
+    "category": "premium",
+    "gender": "women",
+    "keywords": [
+      "women shirt", "women shirts", "women tops", "shirt for women", "top for women", "best tops", "premium tops",
+      "quality tops", "high quality shirts", "trendy tops","best","dress","topwear","top wear","high","price","above 500"
+
+    ],
+    "response": "👚 Premium Women's Shirts & Tops:\n\n- Elegant Cotton Round Neck Top – ₹599\n- Stylish Women Basic Tee – ₹600\n- Women Round Neck Cotton Top – ₹5000\n- Elegant Cotton Round Neck Top – ₹3999\n\n✨ Discover more elegant tops in our collection!"
+  },
+  {
+    "category": "premium",
+    "gender": "women",
+    "keywords": [
+      "women tshirt", "women t-shirt", "women t shirt", "premium t-shirts", "top t-shirts", "quality t-shirts",
+      "best t-shirts", "stylish t-shirts", "high price t-shirts","best","bset t shirt","high","price","above 500","high","women top"
+    ],
+    "response": "👕 Premium Women's T-Shirts:\n\n- Women Zip-Front Relaxed Black T-shirt – ₹3999\n\n🌸 Add premium flair to your everyday look!"
+  },
+  {
+    "category": "default",
+    "gender": "women",
+    "keywords": [
+      "women hoodies", "hoodie for women", "best hoodies", "premium hoodies", "warm hoodies", "trendy hoodies",
+      "cozy hoodies", "stylish hoodies","best","high","price","above 500","hoodies for"
+    ],
+    "response": "🧥 Top Hoodies for Women:\n\n- Women Oversized Hoodie – ₹1299\n\n💖 Cozy comfort meets premium style!"
+  },
+  {
+    "category": "premium",
+    "gender": "women",
+    "keywords": [
+      "women sweaters", "women sweater", "winter wear women", "knitwear women", "best sweaters", "best sweaters","premium sweaters",
+      "stylish sweaters", "top sweaters", "warm sweaters", "high price sweaters","best","high","price","above 500","high"
+    ],
+    "response": "🧶 Women's Premium Sweaters:\n\n- Women Soft Knit Sweater – ₹999\n- Women Wool Blend Sweater – ₹999\n\n🧣 Warmth & elegance for the season!"
+  },
+  {
+    "category": "premium",
+    "gender": "kids",
+    "keywords": [
+      "kids shirts", "kids shirt", "boys shirts", "girls shirts", "premium shirts", "best shirts", "stylish shirts",
+      "top shirts", "trendy shirts", "high price shirts", "shirts above 500", "shirt above 500",
+      "above 500", "high", "price", "best", "premium", "quality", "fashion","kid top","kid"
+    ],
+    "response": "👕 Premium Kids' Shirts:\n\n- Boys Premium Cotton Shirt – ₹599\n- Girls Classic Cotton Shirt – ₹699\n\n🧒✨ Let the little ones shine in style!"
+  },
+  {
+    "category": "premium",
+    "gender": "kids",
+    "keywords": [
+      "kids pants", "kids pant", "boys pants", "girls pants", "premium pants", "best pants",
+      "stylish pants", "top pants", "trendy pants", "pants above 500", "high price pants",
+      "above 500", "high", "price", "best", "premium", "quality", "fashion", "bottom wear kids","kids"
+    ],
+    "response": "👖 Premium Kids' Pants:\n\n- Boys Stretchable Jeans – ₹749\n- Girls Comfort Fit Trousers – ₹799\n\n🧒 Perfect blend of comfort and fashion for young explorers!"
+  },
+  {
+    "category": "premium",
+    "gender": "kids",
+    "keywords": [
+      "kids t shirts", "kids t-shirt", "kids t shirt", "boys t-shirts", "girls t-shirts", "premium t-shirts",
+      "best t-shirts", "stylish t-shirts", "top t-shirts", "high price t-shirts", "t-shirts above 500",
+      "t shirt", "tshirt", "above 500", "high", "price", "best", "trendy", "premium", "quality", "fashion"
+    ],
+    "response": "👕 Premium Kids' T-Shirts:\n\n- Boys Graphic Cotton T-shirt – ₹699\n- Girls Printed Cotton T-shirt – ₹649\n\n🌈 Trendy and comfy for every little adventurer!"
+  },
+  {
+    "category": "premium",
+    "gender": "kids",
+    "keywords": [
+      "kids hoodies", "kids hoodie", "hoodies for kids", "boys hoodies", "girls hoodies", "premium hoodies", 
+      "best hoodies", "stylish hoodies", "top hoodies", "warm hoodies", "hoodies above 500",
+      "hoodie", "above 500", "high", "price", "best", "trendy", "premium", "quality", "fashion", "cozy"
+    ],
+    "response": "🧥 Premium Kids' Hoodies:\n\n- Boys Zip-Up Hoodie – ₹899\n- Girls Fleece Hoodie – ₹999\n\n🧸 Keep your kids cozy and cool!"
+  },
+  {
+    "category": "premium",
+    "gender": "kids",
+    "keywords": [
+      "kids sweaters", "kid sweater", "sweaters for kids", "boys sweaters", "girls sweaters",
+      "premium sweaters", "premium kids sweaters", "best sweaters", "best kids sweaters",
+      "stylish sweaters", "top sweaters", "warm sweaters", "high price sweaters",
+      "knitwear kids", "winter wear kids", "warm clothes kids",
+      "above 500", "high", "price", "best", "trendy", 
+      "i want kids sweaters", "i want best kids sweaters", "want kids sweaters", "hi best kids sweaters", "hi i want best sweaters"
+    ],
+    "response": "🧶 Premium Kids' Sweaters:\n\n- Boys Wool Blend Sweater – ₹899\n- Girls Knit Sweater – ₹999\n\n❄️ Stylish layers for cool weather!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "men",
+    "keywords": [
+      "cheap pants", "budget pants", "low price pants", "affordable pants", "least price pants",
+      "men pants", "men trousers", "men joggers", "below 500", "under 500", "pants under 500", "poor quality pants", "economy pants"
+    ],
+    "response": "👖 Men's Budget Pants (Under ₹500):\n\n- Men Cotton Track Pants – ₹399\n- Men Casual Joggers – ₹499\n\n💸 Affordable comfort without compromise!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "men",
+    "keywords": [
+      "cheap shirts", "budget shirts", "low price shirts", "affordable shirts", "least price shirts",
+      "men shirts", "men shirt", "shirt for men", "under 500", "shirts under 500", "poor quality shirts","low"
+    ],
+    "response": "👔 Men's Affordable Shirts (Under ₹500):\n\n- Men Cotton Casual Shirt – ₹349\n- Men Basic Formal Shirt – ₹499\n\n🧥 Style made pocket-friendly!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "men",
+    "keywords": [
+      "cheap tshirts", "cheap t-shirts", "budget t-shirts", "low price t-shirts", "affordable t-shirts", "least price t-shirts",
+      "men t-shirt", "men t shirt", "tshirt for men", "t-shirts under 500", "under 500", "poor quality tshirts","low","t shirt","t shirts"
+    ],
+    "response": "👕 Men's Budget T-Shirts (Under ₹500):\n\n- Men Graphic Cotton Tee – ₹299\n- Men Crew Neck T-Shirt – ₹399\n\n🧢 Cool style at a cool price!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "men",
+    "keywords": [
+      "cheap hoodies", "budget hoodies", "low price hoodies", "affordable hoodies", "least price hoodies",
+      "men hoodies", "hoodie for men", "hoodies under 500", "under 500", "poor quality hoodies","low"
+    ],
+    "response": "🧥 Men's Budget Hoodies (Under ₹500):\n\n- Lightweight Men Hoodie – ₹499\n\n🧊 Stay warm without burning your wallet!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "men",
+    "keywords": [
+      "cheap sweaters", "budget sweaters", "low price sweaters", "affordable sweaters", "least price sweaters",
+      "men sweaters", "sweater for men", "under 500", "sweaters under 500", "poor quality sweaters"
+    ],
+    "response": "🧶 Men's Affordable Sweaters (Under ₹500):\n\n- Men Acrylic Winter Sweater – ₹499\n- Men Basic Knit Sweater – ₹399\n\n❄️ Warmth that fits your budget!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "women",
+    "keywords": [
+      "cheap pants", "budget pants", "low price pants", "affordable pants", "least price pants",
+      "women pants", "pants for women", "trousers for women", "under 500", "poor quality pants", "low"
+    ],
+    "response": "👖 Women's Budget Pants (Under ₹500):\n\n- Women Casual Cotton Pants – ₹399\n- Women Slim Fit Trousers – ₹499\n\n💃 Style meets savings!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "women",
+    "keywords": [
+      "cheap shirts", "budget shirts", "low price shirts", "affordable shirts", "least price shirts",
+      "women shirts", "women shirt", "shirt for women", "under 500", "shirts under 500", "poor quality shirts", "low","dress"
+    ],
+    "response": "👚 Women's Affordable Shirts (Under ₹500):\n\n- Women Cotton Formal Shirt – ₹399\n- Women Striped Casual Shirt – ₹499\n\n💸 Smart looks, smarter price!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "women",
+    "keywords": [
+      "cheap tshirts", "cheap t-shirts", "budget t-shirts", "low price t-shirts", "affordable t-shirts", "least price t-shirts",
+      "women t-shirt", "women t shirt", "tshirt for women", "t-shirts under 500", "under 500", "poor quality tshirts", "low", "t shirt", "t shirts"
+    ],
+    "response": "👕 Women's Budget T-Shirts (Under ₹500):\n\n- Women Printed Cotton Tee – ₹299\n- Women Casual Crew Neck Tee – ₹399\n\n🧢 Stay trendy without spending big!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "women",
+    "keywords": [
+      "cheap hoodies", "budget hoodies", "low price hoodies", "affordable hoodies", "least price hoodies",
+      "women hoodies", "hoodie for women", "hoodies under 500", "under 500", "poor quality hoodies", "low"
+    ],
+    "response": "🧥 Women's Budget Hoodies (Under ₹500):\n\n- Lightweight Women Hoodie – ₹499\n\n🌬️ Cozy comfort at a light price!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "women",
+    "keywords": [
+      "cheap sweaters", "budget sweaters", "low price sweaters", "affordable sweaters", "least price sweaters",
+      "women sweaters", "sweater for women", "under 500", "sweaters under 500", "poor quality sweaters", "low"
+    ],
+    "response": "🧶 Women's Affordable Sweaters (Under ₹500):\n\n- Women Soft Knit Sweater – ₹399\n- Women Basic Winter Sweater – ₹499\n\n❄️ Warm styles at wallet-friendly prices!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "kids",
+    "keywords": [
+      "cheap pants", "budget pants", "low price pants", "affordable pants", "least price pants",
+      "kids pants", "pants for kids", "trousers for kids", "under 500", "poor quality pants", "low"
+    ],
+    "response": "👖 Kids' Budget Pants (Under ₹500):\n\n- Kids Cotton Joggers – ₹349\n- Kids Pull-On Pants – ₹499\n\n🧒 Play hard, pay less!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "kids",
+    "keywords": [
+      "cheap shirts", "budget shirts", "low price shirts", "affordable shirts", "least price shirts",
+      "kids shirts", "kids shirt", "shirt for kids", "under 500", "shirts under 500", "poor quality shirts", "low"
+    ],
+    "response": "👕 Kids' Affordable Shirts (Under ₹500):\n\n- Kids Casual Shirt – ₹399\n- Kids Striped Shirt – ₹499\n\n🎨 Style your little champs affordably!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "kids",
+    "keywords": [
+      "cheap tshirts", "cheap t-shirts", "budget t-shirts", "low price t-shirts", "affordable t-shirts", "least price t-shirts",
+      "kids t-shirt", "kids t shirt", "tshirt for kids", "t-shirts under 500", "under 500", "poor quality tshirts", "low", "t shirt", "t shirts"
+    ],
+    "response": "👕 Kids' Budget T-Shirts (Under ₹500):\n\n- Kids Cartoon Printed Tee – ₹299\n- Kids Crew Neck T-Shirt – ₹399\n\n🎉 Fun fashion for tiny trendsetters!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "kids",
+    "keywords": [
+      "cheap hoodies", "budget hoodies", "low price hoodies", "affordable hoodies", "least price hoodies",
+      "kids hoodies", "hoodie for kids", "hoodies under 500", "under 500", "poor quality hoodies", "low"
+    ],
+    "response": "🧥 Kids' Budget Hoodies (Under ₹500):\n\n- Lightweight Kids Hoodie – ₹499\n\n🌟 Keep them warm without breaking the bank!"
+  },
+  {
+    "category": "lowprice",
+    "gender": "kids",
+    "keywords": [
+      "cheap sweaters", "budget sweaters", "low price sweaters", "affordable sweaters", "least price sweaters",
+      "kids sweaters", "sweater for kids", "under 500", "sweaters under 500", "poor quality sweaters", "low"
+    ],
+    "response": "🧶 Kids' Affordable Sweaters (Under ₹500):\n\n- Kids Knit Winter Sweater – ₹399\n- Kids Acrylic Sweater – ₹499\n\n❄️ Warm, cute, and cost-effective!"
+  },
+  {
+    "category": "todayoffers",
+    "keywords": [
+      "today's offers", "today offers", "deals", "discounts", "today deals", "sale", "today sale", "offer", "latest deals", "promo", "best offers", "today", "discount"
+    ],
+    "response": "🔥 **Today's Hot Deals & Offers** 🔥\n\n🧔 **Men's Budget Picks (Under ₹500):**\n- 👕 Graphic Cotton T-Shirt – ₹299\n- 👖 Cotton Track Pants – ₹399\n- 👔 Cotton Casual Shirt – ₹349\n\n👩 **Women's Affordable Choices:**\n- 👚 Casual Printed Top – ₹399\n- 👖 Slim Fit Jeggings – ₹499\n\n🧒 **Kids' Value Deals:**\n- 👕 Cartoon Print T-Shirt – ₹299\n- 👖 Comfy Kids Shorts – ₹349\n\n✨ **Premium Picks (Above ₹500):**\n- 👔 Relaxed Denim Shirt – ₹999\n- 🧥 Stylish Hoodies & Sweaters – from ₹599 to ₹1499\n\n🛍️ Shop now and enjoy style at every price point!"
+  },
+  {
+    "category": "ordertracking",
+    "keywords": [
+      "track order", "track my order", "order status", "where is my order", "track", "order update", "delivery status", "order tracking", "how to track", "track parcel"
+    ],
+    "response": "🚚 **Order Tracking Help**\n\nYou can track your order in just a few steps:\n\n1️⃣ Go to the **Orders** section in your account.\n2️⃣ Find the order you want to track.\n3️⃣ Click on **Track Order** to see the real-time status.\n\n📦 Still need help? Chat with our support team anytime!"
+  },
+  {
+    "category": "orderplacing",
+    "keywords": [
+      "how to place an order", "how do I place an order", "place an order", "order process", "buy now","placing order","order","order place"
+    ],
+    "response": "🛒 **Placing an Order**\n\nTo place an order, you can choose either of the following ways:\n\n1️⃣ **Add to Cart** Method:\n- Browse and select your desired product.\n- Choose the size and quantity.\n- Click **Add to Cart**.\n- Go to your cart and click **Place Order** to proceed with checkout.\n\n2️⃣ **Buy Now** Method:\n- Select a product.\n- Click on **Buy Now**.\n- Directly proceed to **Place Order**.\n\nBoth options will take you through the secure checkout process. Happy shopping! 🛍️"
+  },
+  {
+    "category": "ordercancellation",
+    "keywords": [
+      "cancel order", "how to cancel my order", "can I cancel my order", "order cancellation","how to cancle my order","cancle order"
+    ],
+    "response": "❌ **Order Cancellation**\n\nWe understand you might want to cancel your order, but please note:\n\n1️⃣ **Cancellation can only be done within 7 days of receiving the product.**\n2️⃣ After this period, cancellations are not possible.\n\nIf your order has already been shipped, we won’t be able to cancel it. However, you can return the product within 7 days after receiving it. Please visit the **Return Policy** section for more details or contact support if you need assistance."
+  },
+  {
+    "category": "paymentmethods",
+    "keywords": [
+      "payment methods", "how can I pay", "payment options", "which payment methods do you accept", "do you accept credit card","how many payments","what are payments","method","what are payment options","payment","method","are payment","how may payment","cash on delivery"
+    ],
+    "response": "💳 **Payment Methods**\n\nCurrently, we only accept **Cash on Delivery (COD)** as the payment method.\n\nYou can choose COD at checkout and pay when your order is delivered."
+  },
+  {
+    "category": "emiinfo",
+    "keywords": [
+      "emi", "emi available", "installment", "pay in parts", "payment in installments", "monthly payment", "easy monthly installments", "emi option","emi"
+    ],
+    "response": "🚫 **EMI Not Available**\n\nWe currently do not offer EMI or installment payment options. All purchases must be made through full payment at checkout. We appreciate your understanding!"
+  },  
+  {
+    "category": "cartmanagement",
+    "keywords": [
+      "add multiple items to cart", "how to add multiple items", "add multiple","multiple items","add more items", "cart quantity", "multiple products in cart","how many items","items","add cart","multiple item to cart"
+    ],
+    "response": "🛒 **Adding Multiple Items to Cart**\n\nYou can add as many items as you want to your cart! Here's how:\n\n1️⃣ Browse the products and select the one you like.\n2️⃣ Choose the quantity and click **Add to Cart**.\n3️⃣ Repeat the process for any other products you want to add.\n\nOnce you're done, proceed to checkout whenever you're ready!"
+  },
+  {
+    "category": "returnpolicy",
+    "keywords": [
+      "return policy", "how to return", "return item", "return product", "can I return my order","how many days","return","replace","replacement","policy"
+    ],
+    "response": "🔄 **Return Policy**\n\nWe offer a hassle-free return policy! You can return items within 7 days of receiving your order. Here's how:\n\n1️⃣ Go to **My Orders** and select the order you want to return.\n2️⃣ Click **Return** and choose the items you want to return.\n3️⃣ Follow the steps to generate a return label.\n\nFor more details, refer to our full **Return & Exchange Policy**."
+  },
+  {
+    "category": "exchangepolicy",
+    "keywords": [
+      "exchange", "product exchange", "can I exchange", "how to exchange", "exchange policy",
+      "want to exchange", "need to exchange", "return and exchange", "exchange item",
+      "replace product", "replacement", "product replacement","exchanges","support","change"
+    ],
+    "response": "🔁 **Exchange Policy**\n\nWe offer a hassle-free **7-day exchange window** from the date of delivery. To exchange an item:\n\n1️⃣ Ensure the product is unused and in original condition.\n2️⃣ Visit the **My Orders** section and choose the item to exchange.\n3️⃣ Follow the steps shown, and our team will handle the rest!\n\nPlease note: Some items may not be eligible for exchange. Check the product page or contact support for help."
+  },
+  {
+    "category": "sizeguide",
+    "keywords": [
+      "size guide", "size chart", "how to choose size", "size information", "what size should I buy","sizes","availabe","what size","size","sizes"    ],
+    "response": "📏 **Size Guide**\n\nWe offer a comprehensive size guide for all our products! You can find size charts for men, women, and kids' clothing on the collection pages.\n\nIf you're still unsure about the size, feel free to reach out to us, and we'll assist you in choosing the right one!"
+  },
+  {
+    "category": "shippingfee",
+    "keywords": [
+      "shipping fee", "delivery charges", "how much is the shipping", "shipping cost", "is there a shipping fee", "shipping charges","shipping details","delivery fee","charge","charges"
+    ],
+    "response": "🚚 **Shipping Fee**\n\n- For orders below ₹500, a shipping fee of ₹10 will be charged.\n- For orders above ₹500, **free shipping** will be applied.\n\nEnjoy a smooth shopping experience with our affordable shipping options!"
+  },
+  {
+    "category": "deliveryquestions",
+    "keywords": [
+      "when will my order arrive", "order arrival time", "delivery time", "expected delivery date","delivery","arrival","arrival date","recive","riciving","recive order"
+    ],
+    "response": "📅 **Order Arrival**\n\nYour order will typically arrive within 3-7 business days, depending on your location. You can track your order for the most up-to-date delivery status in your account."
+  },
+  
+  {
+    "category": "shippingquestions",
+    "keywords": [
+      "do you ship internationally", "international shipping", "worldwide delivery", "shipping outside India","shipping details","shipping"
+    ],
+    "response": "🌍 **International Shipping**\n\nCurrently, we only ship within India. We're working on expanding our services to offer international shipping in the future!"
+  },
+  
+  {
+    "category": "deliverypreferences",
+    "keywords": [
+      "select delivery date", "choose delivery date", "can I choose my delivery date", "select shipping time","schedule"
+    ],
+    "response": "📅 **Delivery Date Selection**\n\nAt this time, we do not offer the option to select a specific delivery date. Your order will be shipped based on availability and location. You can track your order for the estimated delivery time."
+  },
+  {
+    "category": "productreviews",
+    "keywords": [
+      "customer reviews", "can i see reviews", "product reviews", "see ratings", "user reviews", "customer feedback", "ratings", "feedback","review","reviews","feed back"
+    ],
+    "response": "⭐ **Customer Reviews**\n\nYes! You can view customer reviews and ratings on each product satisfaction page. Just scroll down to the **Reviews** section to read what other buyers have to say before making your purchase."
+  },{
+    "category": "accountcreation",
+    "keywords": [
+      "create account", "how to create account", "sign up", "register", "open account", "make an account", "new account","account"
+    ],
+    "response": "🆕 **Creating an Account**\n\nTo create an account:\n1️⃣ Click on the **Sign Up** or **Register** button at the top-right of the page.\n2️⃣ Fill in your name, email, and password.\n3️⃣ Submit the form and you're good to go!"
+  },{
+    "category": "passwordreset",
+    "keywords": [
+      "reset password", "forgot password", "change password", "recover password", "password issue", "i forgot my password","password"
+    ],
+    "response": "🔐 **Resetting Your Password**\n\nNo worries! Just click **Forgot Password** on the login page.\nEnter your email, and you'll receive instructions to reset it quickly and securely."
+  },{
+    "category": "howtoshop",
+    "keywords": [
+      "how to shop", "shopping guide", "how do I shop", "shopping steps", "how to do shopping", "how can I shop", "steps to shop", "buying guide","shop","shopping"
+    ],
+    "response": "🛒 **Shopping Guide**\n\nShopping with us is simple and smooth! Here's how:\n\n1️⃣ **Browse** through our categories or search for what you want.\n2️⃣ Click on a product to view details.\n3️⃣ **Choose size** and quantity.\n4️⃣ Hit **Add to Cart** or **Buy Now**.\n5️⃣ **Go to Cart** and click **Place Order**.\n6️⃣ Enter your shipping details and make payment.\n\nThat’s it! You’ll get an order confirmation right away. Happy shopping! 🎉"
+  },{
+    "category": "loginhelp",
+    "keywords": [
+      "how to login", "login", "sign in", "log in", "account login", "enter account", "access my account", "log into my account","account login","login account","login a account"
+    ],
+    "response": "🔑 **Logging In**\n\nTo log in to your account:\n1️⃣ Click on the **Login** or **Sign In** button at the top-right of the homepage.\n2️⃣ Enter your registered email and password.\n3️⃣ Hit **Submit** to access your account. Easy and secure!"
+  }, {
+    "category": "guestcheckout",
+    "keywords": [
+      "buy without account", "checkout without account", "guest checkout", "no account purchase", "can I buy without logging in", "purchase as guest","guest","no account","no account buy","with out account "
+    ],
+    "response": "🔐 **Account Required**\n\nTo place an order on our website, you need to create an account or log in. This helps us provide a secure shopping experience and allows you to track your orders easily."
+  },{
+    "category": "languagechange",
+    "keywords": [
+      "change language", "switch language", "language option", "how to change language", "multi language", "translate site", "change to hindi", "change to telugu", "language settings","language","languages"
+    ],
+    "response": "🌍 **Changing Language**\n\nYou can easily switch to your preferred language using the **language selector** at the top or bottom of the page. Our site supports multiple languages like **English, Hindi, Telugu, Tamil, and more** for a personalized shopping experience!"
+  },       
+  {
+    "category": "deliverypreferences",
+    "keywords": [
+      "change delivery preferences", "edit delivery address", "update delivery preferences"
+    ],
+    "response": "✏️ **Change Delivery Preferences**\n\nYou can update your delivery address and preferences by going to the **Account Settings** in your profile. If you need assistance, please reach out to our support team."
+  },
+  
+  {
+    "category": "deliveryissues",
+    "keywords": [
+      "lost package", "damaged package", "what if my package is lost", "what if my package is damaged", "my package is missing","missing order","missing my order","not recive order","not recive my order"
+    ],
+    "response": "📦 **Lost or Damaged Package**\n\nIf your package is lost or damaged during delivery, please contact our support team immediately. We'll assist you with tracking your order or filing a claim for damages."
+  },
+  {
+    "category": "ordertracking",
+    "keywords": [
+      "where is my order", "track my order", "order status", "track order", "order update", "delivery status","where is"
+    ],
+    "response": "🚚 **Order Tracking Help**\n\nTo find the status of your order, follow these steps:\n\n1️⃣ Go to the **Orders** section in your account.\n2️⃣ Find the order you want to track.\n3️⃣ Click on **Track Order** to see the real-time status.\n\n📦 If you need further assistance, feel free to reach out to our support team!"
+  },
+  
+  {
+    "category": "colorbasedshirtkid",
+    "keywords": [
+      "green shirt for kids", "kids green color shirt", "green kids shirt", "green shirt kids",
+      "colour", "kids colour", "kids colour shirt", "green", "red", "black", "yellow", "colour",
+      "kids pants", "kids t shirt", "kids t-shirt", "girl tops", "girl top", "boy shirt", 
+      "boy pant", "boy t shirt", "colour shirt for women", "colour pant for women",
+      "size s", "size m", "size l", "size xl", "size xxl", "small size", "medium size", 
+      "large size", "extra large", "extra extra large","size","sizes"
+    ],
+    "response": "📏 **Size Guide & Color Options**\n\nWe have a wide variety of kids' clothing available in multiple colors like green, red, black, and yellow. While we don’t recommend specific product colors, you can explore all color and style options on our **Collection** page.\n\n🔢 **Available Sizes:**\n- Small (S)\n- Medium (M)\n- Large (L)\n- Extra Large (XL)\n- Extra Extra Large (XXL)\n\nEach product page includes a detailed size chart to help you pick the perfect fit. Need help choosing the right size? Just reach out—we’re happy to assist!"
+  },
+  {
+    "category": "menswear",
+    "keywords": [
+      "men products", "men clothing", "show men items", "what's available for men", "buy for men", "men wear"
+    ],
+    "response": "👕 **Men’s Wear**\n\nExplore our latest collection for men, including joggers, cotton t-shirts, casual shirts, hoodies, jackets, belts, and more! Find stylish options for every occasion."
+  },
+  {
+    "category": "womenswear",
+    "keywords": [
+      "women clothing", "women wear", "ladies wear", "female clothing", "women collection", "show women items", "buy for women", "girls clothing", "female products", "women outfits"
+    ],
+    "response": "👗 **Women’s Wear**\n\nDiscover our stylish women’s collection including cotton tops, skinny jeans, sweaters, sun hats, jackets, trench coats, and more. Perfect for fashion-forward comfort and everyday elegance!"
+  }
+  ,  
+  {
+    "category": "kidswear",
+    "keywords": [
+      "kids wear", "clothes for kids", "show kids clothing", "kids collection", "buy for kids", "children products"
+    ],
+    "response": "🧒 **Kids’ Wear**\n\nCheck out our cute and cozy collection for kids – cotton tops, graphic tees, hoodies, winter jackets, beanies, and much more!"
+  },
+  {
+    "category": "unisexpants",
+    "keywords": ["pants", "pant", "trousers", "bottoms"],
+    "response": "👖 Explore pants for everyone! Whether you're into joggers, chinos, or relaxed fit jeans, we have a wide range of bottomwear to suit your style."
+  },{
+    "category": "unisexshirts",
+    "keywords": ["shirts", "shirt", "formal shirts", "casual shirts", "denim shirts","mens"],
+    "response": "👕 Check out our shirt collection! From crisp formal styles to relaxed casual shirts, there's something for every mood and moment."
+  },
+  {
+    "category": "uniseqts",
+    "keywords": ["tshirts", "tshirt", "tees", "t-shirt", "t-shirts","t shirt","t shirts"],
+    "response": "👚 Stay cool in our comfy T-shirts! Whether it's graphic tees or plain basics, find the perfect vibe for your daily wear."
+  },
+  {
+    "category": "unisexhoodies",
+    "keywords": ["hoodies", "hoodie", "sweatshirts", "zip hoodie", "pullover hoodie"],
+    "response": "🧥 Get cozy with our collection of hoodies! From zip-ups to pullovers, our hoodies are perfect for layering and street-style looks."
+  },  
+  {
+    "category": "unisexsweaters",
+    "keywords": ["sweaters", "sweater", "knitwear", "woolen wear", "cardigans"],
+    "response": "🧶 Wrap yourself in warmth! Our sweaters range from chunky knits to classic cardigans, perfect for chilly days with style."
+  },  
+  {
+    "category": "menspants",
+    "gender": "men",
+    "keywords": ["pants", "pant", "trousers", "jeans", "denim pants", "men pants", "men pant"],
+    "response": "👖 **Men’s Pants**\n\nCheck out our rugged denim trousers, casual jogger pants, and slim fit jeans tailored for comfort and style. Find the perfect bottomwear for any occasion!"
+  },
+  {
+    "category": "uniseextops",
+    "keywords": ["tops", "top", "blouses", "crop tops", "tank tops", "womens", "ladies tops", "fashion tops"],
+    "response": "👚 Discover stylish tops for every occasion! From breezy crop tops to elegant blouses, our collection brings comfort and flair to your wardrobe."
+  },
+  {
+    "category": "generalproducts",
+    "keywords": [
+      "products", "product", "items", "item", "available products", "available items",
+      "what products", "what items", "all products", "show products", "show items", "browse items","collection","collections"
+    ],
+    "response": "🛍️ **Our Product Range**\n\nExplore our diverse collection of fashionwear for men, women, and kids. From trendy **tops, t-shirts, pants, and hoodies** to cozy **sweaters and jackets**, we’ve got something for every season and style. Start browsing now to find your perfect fit!"
+  },
+  {
+    "category": "refundpolicy",
+    "keywords": ["refund", "money back", "return money", "get refund", "refund policy","cash back","money return"],
+    "response": "💸 **Refund Policy**\n\nRefunds are processed within **5-7 business days** after the returned item is received and verified. Check the ‘Return Policy’ section for full details."
+  },
+  {
+    "category": "fabricinfo",
+    "keywords": ["material", "fabric", "cloth", "cotton", "polyester", "silk", "denim", "wool", "type of material","cloths"],
+    "response": "🧵 **Fabric Details**\n\nEach product lists its fabric type — from soft cotton to premium blends. Want breathable, comfy, or stretchable? Just ask!"
+  },
+  {
+    "category": "compare",
+    "keywords": ["compare", "difference", "which is better", "vs", "comparison", "compare shirts", "compare pants"],
+    "response": "⚖️ **Compare Products**\n\nWhile we don’t offer side-by-side comparison yet, you can check details like fabric, price, and style directly on each product page to decide what suits you best."
+  },
+  {
+    "category": "wishlist",
+    "keywords": ["wishlist", "favorites", "my favorites","save for later", "add to wishlist", "favorite item","favorite"],
+    "response": "💖 **Wishlist Feature**\n\nYou can save your favorite items to your wishlist by clicking the ❤️ icon. Come back later and shop with ease!"
+  },{
+    "category": "websiteinfo",
+    "keywords": [
+      "what is your website", "website name", "site name", "site info", "company name", "your website", "web site","brand name", "what is vsa","info","website","trust","friendly","Virtual Shopping Assistant"
+    ],
+    "response": "🛍️ **Our Brand**\n\nWe are **VSA – Virtual Shopping Assistant**, your AI-powered fashion companion! From browsing to buying, we help you shop smart, quick, and stylishly — all in one place!"
+  }
+  
+]
+

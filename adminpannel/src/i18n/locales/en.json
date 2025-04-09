@@ -1,0 +1,33 @@
+{
+    "addItem": "Add Item",
+    "list": "List",
+    "orders": "Orders",
+    "logout": "Logout",
+    
+        "productName": "Product Name",
+        "writeHere": "Write here...",
+        "productDescription": "Product Description",
+        "category": "Category",
+        "subCategory": "Sub Category",
+        "productPrice": "Product Price",
+        "productSizes": "Product Sizes",
+        "addToPopular": "Add to popular",
+        "addProduct": "Add product",
+        "men": "Men",
+        "women": "Women",
+        "kids": "Kids",
+        "topwear": "Topwear",
+        "bottomwear": "Bottomwear",
+        "winterwear": "Winterwear",
+        "pricePlaceholder": "Enter price",
+        "en": {
+    "Image": "Image",
+    "Name": "Name",
+    "Category": "Category",
+    "Price": "Price",
+    "Remove": "Remove"
+  }
+      
+      
+  }
+  

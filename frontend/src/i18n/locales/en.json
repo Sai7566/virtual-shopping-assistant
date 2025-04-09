@@ -1,0 +1,327 @@
+{
+    "welcome": "Welcome to Virtual Shopping Assistant",
+    "Home": "Home",
+    "Testimonial": "Testimonial",
+    "Collection": "Collection",
+    "Contact": "Contact",
+    "search": "Search...",
+    "cart": "Cart",
+    "login": "Login",
+  
+    "products": {
+    "1": {
+      "name": "Elegant Cotton Round Neck Top",
+      "description": "This lightweight cotton top is perfect for casual outings, featuring a relaxed fit and durable material."
+    },
+    "2": {
+      "name": "Men Premium Cotton Tee",
+      "description": "A premium t-shirt offering exceptional comfort and a smooth texture, great for everyday wear."
+    },
+    "3": {
+      "name": "Casual Girls Cotton Top",
+      "description": "Soft cotton top for girls, ideal for both active play and relaxation."
+    },
+    "4": {
+            "name": "Classic Men Casual T-Shirt",
+            "description": "A casual t-shirt made from breathable cotton, suitable for any informal occasion."
+        },
+        "5": {
+            "name": "Stylish Women Basic Tee",
+            "description": "An everyday essential cotton tee for women, offering simplicity and comfort."
+        },
+        "6": {
+            "name": "Graphic Tee for Kids",
+            "description": "Fun and vibrant graphic tee, perfect for kids’ outdoor play and adventures."
+        },
+        "7": {
+            "name": "Women Soft Knit Sweater",
+            "description": "A comfortable, lightweight knit sweater ideal for layering during cool weather."
+        },
+        "8": {
+            "name": "Casual Men Hoodie",
+            "description": "Warm and comfortable hoodie with an adjustable hood and front pockets."
+        },
+        "9": {
+            "name": "Girls Cozy Hoodie",
+            "description": "A casual hoodie designed for boys, featuring a soft material for all-day comfort."
+        },
+        "10": {
+            "name": "Men Jogger Pants",
+            "description": "These high-waisted joggers are ideal for casual wear and feature a relaxed fit for added comfort."
+        },
+        "11": {
+        "name": "Classic Slim Fit Jeans",
+        "description": "Durable and stylish slim fit jeans, suitable for both casual and formal outfits."
+    },
+    "12": {
+        "name": "Men Playtime Joggers",
+        "description": "Comfortable joggers made for active kids, featuring an elastic waistband for easy wear."
+    },
+    "13": {
+        "name": "Women Skinny Fit Jeans",
+        "description": "Trendy mid-rise skinny jeans, made to pair well with any top for a chic look."
+    },
+    "14": {
+        "name": "Functional Kids Cargo Pants",
+        "description": "Rugged cargo pants featuring multiple pockets, ideal for casual or outdoor adventures."
+    },
+    "15": {
+        "name": "Boys Adventure Shorts",
+        "description": "Comfortable elastic waist shorts designed for active boys, ideal for play and outdoor activities."
+    },
+    "16": {
+        "name": "Floral Print Leggings",
+        "description": "Soft and stretchy floral print leggings, perfect for comfort and style."
+    },
+    "17": {
+        "name": "Men Lightweight Puffer Jacket",
+        "description": "Stylish and warm puffer jacket, great for layering in chilly weather."
+    },
+    "18": {
+        "name": "Classic Women Trench Coat",
+        "description": "A timeless trench coat with a tailored fit, perfect for any occasion."
+    },
+    "19": {
+        "name": "Boys Winter Parka",
+        "description": "Warm winter parka with a durable build, designed to withstand cold temperatures."
+    },
+    "20": {
+        "name": "Girls Classic Denim Trouser",
+        "description": "A versatile denim trouser for girls, great for layering in all seasons."
+    },
+    "31": {
+            "name": "Men Round Neck Pure Cotton T-shirt",
+            "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment."
+        },
+        "32": {
+            "name": "Men Round Neck Pure Cotton T-shirt",
+            "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment."
+        },
+        "33": {
+            "name": "Girls Round Neck Cotton Top",
+            "description": "A lightweight, comfortable knitted shirt with a round neckline and short sleeves, easy to wear."
+        },
+        "34": {
+            "name": "Women Round Neck Cotton Top",
+            "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves."
+        },
+        "35": {
+            "name": "Women Zip-Front Relaxed Fit Jacket",
+            "description": "A comfortable and stylish jacket, easy to wear during cold days."
+        },
+        "36": {
+            "name": "Women Zip-Front Relaxed Black T-shirt",
+            "description": "Soft and stretchy floral print leggings, perfect for comfort and style."
+        },
+        "37": {
+            "name": "Women Round Neck Cotton Top",
+            "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves."
+        },
+        "38": {
+            "name": "Kids Round Neck Pure Cotton T-shirt",
+            "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves."
+        },
+        "39": {
+            "name": "Men Printed Plain Cotton Shirt",
+            "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves."
+        },
+        "40": {
+            "name": "Men Slim Fit Relaxed Denim Jacket",
+            "description": "An everyday essential cotton tee for men, offering simplicity and comfort."
+        },
+       "51": {
+        "name": "Women Zip-Front Relaxed Fit Shirt",
+        "description": "A zip-front relaxed-fit shirt that blends style with everyday comfort."
+    },
+    "52": {
+        "name": "Men Slim Fit Relaxed Denim Shirt",
+        "description": "A lightweight denim shirt with a slim-fit cut, suitable for casual and semi-formal wear."
+    }
+  
+  },
+  "hero": {
+    "imgAlt": "Hero Image",
+    "unlock": "Unlock",
+    "bestLook": "your best look, one click at a time!",
+    "upgradeStyle": "Upgrade your style today!",
+    "modernCollection": "MODERN COLLECTION",
+    "everyClick": "Every Click Brings You Closer To Perfection",
+    "shopNow": "Shop Now!",
+    "checkModernCollection": "Check our modern collection"
+  },
+  "features": {
+    "feature1Alt": "Feature 1 Image",
+    "feature2Alt": "Feature 2 Image",
+    "qualityProductTitle": "Quality Product",
+    "qualityProductDesc": "Discover trendy and stylish fashion wear that blends comfort with elegance, perfect for every occasion.",
+    "fastDeliveryTitle": "Fast Delivery",
+    "fastDeliveryDesc": "Get your favorite styles delivered fast, because fashion waits for no one!",
+    "securePaymentsTitle": "Secure Payments",
+    "securePaymentsDesc": "Enjoy a hassle-free shopping experience with secure payment options for every purchase."
+  },
+  "description": "Discover the best deals on top-quality products, crafted to elevate your everyday experience.",
+  "new": "New",
+  "arrivals": "Arrivals",
+  "banner": {
+    "title": "Affordable fashion with a timeless charm.",
+    "subtitle": "Upgrade Your Wardrobe Instantly!",
+    "button": "Explore Collection",
+    "altText": "Fashion Banner",
+   
+ "Elite": "Elite",
+  "Collection": "Collection",
+  "Our": "Our",
+  "Blog": "Blog"
+   
+  },
+  "blogs.1.title": "Top Shopping Tips for Smart Buyers",
+  "blogs.2.title": "Latest Trends in Online Shopping 2025",
+  "blogs.3.title": "How to Spot the Best Deals Online",
+  "blogs.4.title": "Why E-Commerce is the Future of Shopping",
+
+  "categories.men": "Men",
+  "categories.women": "Women",
+  "categories.kids": "Kids",
+  "categories.topwear": "Topwear",
+  "Continue reading": "Continue reading",
+  
+    
+    
+        "Description": "Description",
+        "Care Guide": "Care Guide",
+        "Size Guide": "Size Guide",
+      
+        "Detail": "Detail",
+        "fashion_description": "Fashion clothing is more than just apparel; it's a way to express personality, culture, and lifestyle. Whether you're looking for trendy outfits, timeless classics, or casual everyday wear, shopping for fashion clothing offers endless possibilities.",
+      
+        "Benefits": "Benefits",
+        "benefit_1": "High-quality materials ensure long-lasting durability and comfort.",
+        "benefit_2": "Designed to meet the needs of modern, active lifestyles.",
+        "benefit_3": "Available in a wide range of sizes and trendy colors.",
+      
+        "Caree Guide": "Care Guide",
+        "care_guide_description": "Proper care ensures your clothes last longer and maintain their look and feel. Follow these simple steps to keep your garments in top condition:",
+        "care_1": "Always check the care label for washing and drying instructions.",
+        "care_2": "Wash similar colors together to prevent color bleeding.",
+        "care_3": "Use cold water for delicate fabrics to avoid shrinkage.",
+        "care_4": "Air-dry whenever possible to preserve fabric quality.",
+        "care_5": "Iron at recommended temperatures to prevent damage.",
+      
+        "Sizee Guide": "Size Guide",
+        "size_guide_description": "Finding the perfect fit is essential for comfort and style. Use the size chart below to choose the right size for you:",
+        "size_1": "Measure your chest, waist, and hips for accurate sizing.",
+        "size_2": "Compare your measurements with the brand's official size chart.",
+        "size_3": "For a relaxed fit, consider choosing one size larger.",
+        "size_4": "Different brands may have slight size variations, so always check.",
+        "size_5": "If unsure, opt for adjustable styles for flexibility.",
+        "Easy Return": "Easy Return",
+  "easy_return_description": "Our product is designed with top-notch quality and innovation to meet your needs. It offers a sleek and stylish design, ensuring both functionality and aesthetics. Made from premium materials, it guarantees durability and long-lasting performance.",
+  
+  "Fast Delivery": "Fast Delivery",
+  "fast_delivery_description": "Your orders are processed quickly to ensure they reach your doorstep in the shortest possible time. With our efficient logistics network, you can enjoy hassle-free delivery, tracking updates, and doorstep convenience, making your shopping experience seamless and stress-free.",
+  
+  "Secure Payments": "Secure Payments",
+  "secure_payments_description": "Shop with confidence knowing that your payments are 100% secure. We use advanced encryption and trusted payment gateways to protect your personal and financial information, ensuring a smooth and safe checkout process every time you shop with us.",
+  "Related": "Related",
+  "Products": "Products",
+  "No related products found": "No related products found",
+  "Select Size:": "Select Size:",
+  "Add To Cart": "Add To Cart",
+   "Free delivery on orders over ₹500": "Free delivery on orders over ₹500",
+   "Authenticity You Can Trust": "Authenticity You Can Trust",
+    "Enjoy Cash On Delivery For Your Convenience": "Enjoy Cash On Delivery For Your Convenience",
+    "Easy return & exchange within 7 days": "Easy return & exchange within 7 days",
+    
+        "Filter": "Filter",
+        "Filters": "Filters",
+        "Categories": "Categories",
+        "Types": "Types",
+        "Sort By": "Sort By",
+        "Sort by: Relevant": "Sort by: Relevant",
+        "Sort by: Low-High": "Sort by: Price: Low to High",
+        "Sort by: High-Low": "Sort by: Price: High to Low",
+        "Clear Filters": "Clear Filters",
+        "No products found.": "No products found.",
+        "Men": "Men",
+        "Women": "Women",
+        "Kids": "Kids",
+        "Topwear": "Topwear",
+        "Bottomwear": "Bottomwear",
+        "Winterwear": "Winterwear",
+       "footer": {
+    "help": "We are always here to assist you",
+    "fashion_description": "Fashion apparel blends style, trends, and comfort to create evolving designs for all occasions.",
+    "location": "Location",
+    "location_details": "123, Online, Platform",
+    "phone": "Phone",
+    "phone_details": "+0--------1",
+    "email_support": "Email Support",
+    "email_details": "-------",
+    "vsa": "Virtual Shopping Assistant",
+    "fashion_overview": "Fashion apparel encompasses style, trends, and personal expression, catering to various tastes, seasons, and occasions while blending comfort, elegance, and innovation into ever-evolving designs!",
+    "customer_service": "Customer Service",
+    "help_center": "Help Center",
+    "payment_methods": "Payment Methods",
+    "contact": "Contact Us",
+    "shipping_status": "Shipping Status",
+    "complaints": "Complaints",
+    "legal": "Legal",
+    "privacy_policy": "Privacy Policy",
+    "cookie_settings": "Cookie Settings",
+    "terms_conditions": "Terms & Conditions",
+    "cancellation": "Cancellation",
+    "imprint": "Imprint",
+    "others": "Others",
+    "our_teams": "Our Teams",
+    "sustainability": "Sustainability",
+    "press": "Press",
+    "jobs": "Jobs",
+    "newsletter": "Newsletter",
+    "copyright": "2025 Virtual Shopping Assistant",
+    "rights_reserved": "All rights reserved"
+},
+
+    "productSatisfaction": {
+      "whatPeople": "What People",
+      "say": "Say",
+      "moreThan": "More than",
+      "reviews": "reviews",
+      "highQuality": "High Quality",
+      "amazingFit": "Amazing Fit",
+      "review1": "Absolutely love this outfit! The fabric is incredibly soft and comfortable...",
+      "review2": "This outfit exceeded my expectations! The material is breathable...",
+      "verifiedBuyer": "Verified Buyer"
+    },
+    "about": {
+    "title": "About Us",
+    "description": "Welcome to {{brand}}, your go-to destination for the latest fashion trends. We are committed to providing high-quality clothing that makes you feel confident and stylish.",
+    "mission": "Our Mission",
+    "missionText": "Our mission is to revolutionize the shopping experience by integrating AI-driven personalization, making online shopping seamless, efficient, and enjoyable for everyone.",
+    "whyChooseUs": "Why Choose Us?",
+    "quality": "High-quality, trendy fashion collections.",
+    "aiAssistant": "AI-powered shopping assistant for personalized recommendations.",
+    "fastShipping": "Fast and reliable shipping.",
+    "securePayments": "Secure payment options and hassle-free returns.",
+    "meetTeam": "Meet Our Team",
+    "teamText": "Our team consists of passionate fashion enthusiasts, AI developers, and customer service professionals, all working together to bring you the best shopping experience."
+  }
+  
+  
+
+      
+      
+ 
+      
+  
+  
+    }
+
+
+  
+    
+  
+    
+    
+  
+  
+  

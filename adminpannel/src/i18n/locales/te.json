@@ -1,0 +1,48 @@
+{
+    "addItem": "అంగీకరించు అంశం",
+    "list": "జాబితా",
+    "orders": "ఆర్డర్లు",
+    "logout": "లాగ్ ఔట్",
+    "productName": "ఉత్పత్తి పేరు",
+  "writeHere": "ఇక్కడ రాయండి...",
+  "productDescription": "ఉత్పత్తి వివరణ",
+  "category": "వర్గం",
+  "subCategory": "ఉప వర్గం",
+  "productPrice": "ఉత్పత్తి ధర",
+  "productSizes": "ఉత్పత్తి పరిమాణాలు",
+  "addToPopular": "ప్రాచుర్యం పొందినవి జోడించండి",
+  "addProduct": "ఉత్పత్తి జోడించండి",
+  "men": "పురుషులు",
+  "women": "మహిళలు",
+  "kids": "పిల్లలు",
+  "topwear": "టాప్‌వేర్",
+  "bottomwear": "బాటమ్‌వేర్",
+  "winterwear": "వింటర్‌వేర్",
+  "pricePlaceholder": "ధర నమోదు చేయండి",
+ 
+  "te": {
+    "prod": "ఉత్పత్తి",
+    "Men": "పురుషులు"
+  },
+  
+    "Image": "చిత్రం",
+    "Name": "పేరు",
+    "Category": "వర్గం",
+    "Price": "ధర",
+    "Remove": "తొలగించండి",
+    "prod": "ఉత్పత్తి",
+    "Men": "పురుషులు",
+    "Women": "స్త్రీలు",
+  "Kids": "పిల్లలు",
+  "Men Classic Street Style Hoodie": "మెన్ క్లాసిక్ స్ట్రీట్ స్టైల్ హుడీ",
+  "Casual Sunny Day Dress": "క్యాజువల్ సన్నీ డే డ్రెస్",
+  "Soft Comfort Pants": "సాఫ్ట్ కంఫర్ట్ పాంట్స్",
+  "Woolen Sweater Women": "వూలెన్ స్వీటర్ మహిళలు",
+  "Little Star Dress": "లిటిల్ స్టార్ డ్రెస్",
+  "Casual Comfort Pants": "క్యాజువల్ కంఫర్ట్ పాంట్స్",
+  "Soft Cotton Shirt": "సాఫ్ట్ కాటన్ షర్ట్",
+   "Elegant Black Dress": "ఎలిగెంటు బ్లాక్ డ్రెస్"
+  
+  }
+  
+  
