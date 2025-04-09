@@ -15,7 +15,8 @@ import Login from './Pages/Login';
 import Orders from './Pages/Orders';
 import ProductSatisfaction from './Pages/ProductSatisfaction';
 import About from './Pages/About';
-import Buy from './Pages/buy';
+import Buy from "./Pages/Buy"; // if file is Buy.jsx
+
 
 import Chatbot from './Components/Chatbot';
 
