@@ -1,20 +1,20 @@
 {
-    "version": 2,
+    "functions": {
+      "api/**.js": {
+        "maxDuration": 10
+      }
+    },
     "builds": [
-        {
-            "src": "server.js",
-            "use": "@vercel/node",
-            "config": {
-                "includeFiles": [
-                    "dist/**"
-                ]
-            }
-        }
+      {
+        "src": "backend/pages/api/**/*.js",
+        "use": "@vercel/node"
+      }
     ],
     "routes": [
-        {
-            "src": "/(.*)",
-            "dest": "server.js"
-        }
+      {
+        "src": "/api/(.*)",
+        "dest": "backend/pages/api/$1.js"
+      }
     ]
-}
+  }
+  
